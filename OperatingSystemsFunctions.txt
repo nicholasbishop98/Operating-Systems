@@ -3,3 +3,6 @@ One of the main functions of an operating system is security. An operating syste
 
 OPERATING SYSTEM FUNCTION - MEMORY MANAGEMENT 
 Operating systems can also manage RAM (Random Access Memory) usage. The operating system stores sets of instructions for the processor in memory while the associated program is active. After the program is closed, the operating system may find those instructions unnecessary and delete them from memory. 
+
+OPERATING SYSTEM FUNCTION - PROGRAM MANAGEMENT
+Another main function of an operating system is program management. Some operating systems, such as some mobile operating systems may only be able to store and delegate instructions for one program at a time. This is called a single tasking operating system. However, most operating systems can now run multiple programs at the same time. These operating systems are called multitasking operating systems and allow multiple sets of instructions to be stored in memory at any given time. 

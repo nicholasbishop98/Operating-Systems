@@ -1,0 +1,4 @@
+OPERATING SYSTEM FUNCTION - SECURITY
+One of the main functions of an operating system is security. An operating system typically lets the user set up an administrative account. 
+An administrative account lets one user have access to all files stored on the computer. It also lets the administrator delegate 
+permissions such as file access and network access for other user accounts.
